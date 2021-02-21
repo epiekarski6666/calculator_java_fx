@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.background {
+    -fx-background-color: #615a5a;
+    -fx-font-size:40;
+    -fx-text-fill: #FFFFFF;
+}
+
+.digit {
+    -fx-border-color:#c9bfbf;
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+    
+}
+
+.sign {
+    -fx-border-color:#c9bfbf;
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #FF8000;
+}
+
+.ac {
+    -fx-border-color:#c9bfbf;
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+    -fx-background-color: #66FFB2;
+}
